@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Scholarship Client</string>
+    <string name="northAmerica">Click Here to see available scholarships in North America etc...</string>
+    <string name="southAmerica">Click Here to see available scholarships in South America etc...</string>
+    <string name="Asia">Click Here to see available scholarships in Asia etc...</string>
+    <string name="Europe">Click Here to see available scholarships in Europe etc...</string>
+    <string name="Australia">Click Here to see available scholarships in Australia etc...</string>
+
+    <string name="title_activity_tabs">Tabs</string>
+    <string name="internship">INTERNSHIP</string>
+    <string name="undergrad">UNDER GRADUATE</string>
+    <string name="masters">MASTERS</string>
+    <string name="phd">PHD</string>
+</resources>
