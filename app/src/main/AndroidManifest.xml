@@ -10,12 +10,13 @@
         android:largeHeap="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.NoActionBar">
+        android:theme="@style/Theme.Design.Light.NoActionBar">
+        <activity android:name=".GetdataInRecyclerView"></activity>
         <activity
             android:name=".Tabs"
             android:label="@string/title_activity_tabs"
-            android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
-        <activity android:name=".Homepage"></activity>
+            android:theme="@style/Theme.Material3.Dark.NoActionBar" />
+        <activity android:name=".Homepage" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

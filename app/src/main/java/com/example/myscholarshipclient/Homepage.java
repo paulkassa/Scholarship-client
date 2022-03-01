@@ -15,7 +15,7 @@ public class Homepage extends AppCompatActivity {
     }
 
     public void gotoNext(View view) {
-        Intent intent = new Intent(Homepage.this,Tabs.class);
+        Intent intent = new Intent(Homepage.this,GetdataInRecyclerView.class);
         startActivity(intent);
     }
 }
